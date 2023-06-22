@@ -1,3 +1,3 @@
 # 🗺 PORTFOLIO-ESTEBN
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data fiel
+welcome to my portfolio!, In this space I will showcase my projects in different areas.
