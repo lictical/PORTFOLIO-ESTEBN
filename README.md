@@ -17,4 +17,5 @@ welcome to my portfolio!, In this space I will showcase my projects in different
 
 # Machine Learning
 | Project LInk | Tools | Description  |
+|:------------:|:-------------:|:-----:|
 
