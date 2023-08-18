@@ -12,7 +12,7 @@ welcome to my portfolio!, In this space I will showcase my projects in different
 | Project Link | Date Finished | Tools | Description |
 |:------------:|:-------------:|:-----:|:-----------:|
 | [NETFLIX CLONE](https://github.com/lictical/NETFLIX-CLONE.git)    | 2023   | Node.js, express, javascript, react, idbm API   | Developed and implemented an netflix clone using iBDM API, from scratch. |
-| Example 2    | 2022-03-15    | Docker, Kubernetes | Nulla convallis, mauris in mattis lacinia, lorem justo cursus mauris. |
+| ML Face Recognition   | 2022-03-15    | Docker, Kubernetes | Nulla convallis, mauris in mattis lacinia, lorem justo cursus mauris. |
 | Example 3    | 2022-06-30    | JIRA, Confluence | Sed ullamcorper turpis et mauris auctor posuere. |
 
 # Machine Learning
